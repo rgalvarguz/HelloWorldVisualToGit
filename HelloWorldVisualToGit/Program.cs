@@ -14,6 +14,7 @@ namespace HelloWorldVisualToGit
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
+            //first comment in program 
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
