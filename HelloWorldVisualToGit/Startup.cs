@@ -42,6 +42,8 @@ namespace HelloWorldVisualToGit
             app.UseHttpsRedirection();
             app.UseStaticFiles();
 
+            //bla bla bla estoy modificando varios archivos para ver que pun
+
             app.UseRouting();
 
             app.UseAuthorization();

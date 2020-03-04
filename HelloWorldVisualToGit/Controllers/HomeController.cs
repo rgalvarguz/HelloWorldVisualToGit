@@ -22,7 +22,7 @@ namespace HelloWorldVisualToGit.Controllers
         {
             return View();
         }
-
+        //modificando home controller jijiji ajaja jejeje
         public IActionResult Privacy()
         {
             return View();
